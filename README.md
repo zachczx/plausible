@@ -1,1 +1,1 @@
-# plausible
+# Plausible Analytics on Coolify
